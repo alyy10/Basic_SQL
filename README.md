@@ -66,8 +66,3 @@ Tracks the job history of employees, including past roles and departments.
 - Manage data consistency using `ROLLBACK` and `COMMIT` commands.
 - Ensure that changes made within a session are either fully committed or rolled back if an error occurs.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/mini-sql-project.git
